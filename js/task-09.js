@@ -10,3 +10,4 @@ buttonChangeColor.addEventListener('click', () => {
   bodyStyle.style.backgroundColor = getRandomHexColor();
   classColor.textContent = getRandomHexColor();
 })
+
